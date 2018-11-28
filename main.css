@@ -1,0 +1,14 @@
+.container {
+    display: flex;
+}
+
+#article_One {
+    width: 50%;
+    border: dashed;
+    border-color: red;
+}
+#article_Two {
+    width: 50%;
+    border: solid;
+    border-color: green;
+}
